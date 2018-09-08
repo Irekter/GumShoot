@@ -36,11 +36,8 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-            gunn.isFiring = true;
+            gunn.Shoot();
         }
-        if (Input.GetMouseButtonUp(0))
-        {
-            gunn.isFiring = false;
-        }
+
     }
 }

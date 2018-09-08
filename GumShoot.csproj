@@ -308,6 +308,7 @@
     <Compile Include="Assets\Scripts\Gun.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Scripts\Spiral.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="C:\Users\Varun Panda\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Styles\Main_Dark.uss" />
